@@ -1,3 +1,9 @@
+HELLO THESE ARE MY CHANGES
+
+FIRST ONE
+SECOND ONE
+AND LAST BUT NOT LEAST THE LAST ONE
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
